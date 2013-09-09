@@ -51,11 +51,11 @@ Il n'y a pas d'astuce particulière pour le côté Dire; cependant pour maximise
 #### Quelle est la meilleur solution pour creepblock? ####
 
 Honnêtement, ce qui marche le mieux pour moi et pour beaucoup de joueurs pro est une combinaison des 2. Dans la vidéo ci-dessous, vous pouvez voir une comparaison entre joueurs : certains aiment maintenir le raccourci de sélection du héro
-pour garder la caméra centrée. [Dendi](http://www.wiki.teamliquid.net/dota2/Dendi) utilises la panoramique d'écran, et Arteezy cliques juste sur son raccourci héro chaque fraction de secondes pour bouger la caméra.
+pour garder la caméra centrée. [Dendi](http://wiki.teamliquid.net/dota2/Dendi) utilises la panoramique d'écran, et Arteezy cliques juste sur son raccourci héro chaque fraction de secondes pour bouger la caméra.
 
 __Cliquez sur l'image pour voir la vidéo :__
 
-[![Solution de creepblock](http://img.youtube.com/vi/TZw2XB0I3uM/0.jpg)](http://www.youtube.com/watch?v=TZw2XBOI3uM)
+[![Solution de creepblock](http://img.youtube.com/vi/TZw2XB0I3uM/0.jpg)](http://www.youtube.com/watch?v=TZw2XB0I3uM)
 
 #### 2.4 Laisser la creep à distance en premier - Quand utiliser cette technique et pourquoi ne pas en abbuser ####
 

@@ -1,1 +1,2 @@
 body, html{font-size:16px;line-height:30px}img{display:block;height:auto;max-width:100%;}
+#totop{position:fixed;bottom:0;background:#1a1a1a;color:#ddd;width:100%;text-align:center;}

@@ -24,7 +24,7 @@ Cela demande simplement de mémoriser la couleurs du/des joueur(s) qui peuvent v
 Dans cette partie, j'ai choisi Crystal Maiden comme le danger de gank. si le point orange manque sur la map et le carry ennemi ne farme pas sous sa tour 
 à cause du pull de Crystal Maiden, je devrais jouer défensivement.
 
-### 5.3 Méthode du tableua des scores et de la position du carry ennemi ###
+### 5.3 Méthode du tableau des scores et de la position du carry ennemi ###
 
 Cette méthode requiert de vous de regarder constamment le tableau de score et de regarder si les supports adverses gagnent du niveau. 
 Si vous sentez qu'ils vont vous ganker quand ils auraient dû faire un pull ou deux, vous devriez vous attendre à un gank. 

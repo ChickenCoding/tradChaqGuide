@@ -14,13 +14,13 @@ J'ai commencé la bêta Dota 2 très rapidement, étant l'un des premiers gagnan
 Après des centaines d'heures passées sur le Matchmaking publique, je décidais de me mettre
 à la scène compétitive. J'ai parcouru quelques leagues inhouse, avant de finalement rejoindre
 une équipe. Les équipes polonaise étant extrêmement instables, je suis passé par plusieurs d'entres-
-elle, jouant en [position 1](http://www.millenium.org/dota-2/acceuil/guides/metagame-competitive-roles-et-position-des-heros-92811?page=2)
+elle, jouant en [position 1](http://www.millenium.org/dota-2/accueil/guides/metagame-competitive-roles-et-position-des-heros-92811?page=2)
 
-Depuis 1 ou 2 ans, je me suis vraiment interréssé au ["2", le rôle du middle](http://www.millenium.org/dota-2/acceuil/guides/metagame-competitive-roles-et-position-des-heros-92811?page=3).
+Depuis 1 ou 2 ans, je me suis vraiment interréssé au ["2", le rôle du middle](http://www.millenium.org/dota-2/accueil/guides/metagame-competitive-roles-et-position-des-heros-92811?page=3).
 J'ai commencé par ne choisir que des héros de middle en Matchmaking publique, recherchant toute astuce et toute ruse possible qui me permettrait de devenir meilleur.
 
-Un jour, je suis tombé sur le stream d'[EternalEnvy](http://www.wiki.teamliquid.net/dota2/EternaLEnVy) qui pratiquait le middle avec [Arteezy](http://www.wiki.teamliquid.net/dota2/Arteezy).
-Pour quelqu'un comme moi, c'était une mine d'or : ils parlaient dans les moindre détails du combat pour les lasthits, le positionement, et le creep control. Comme Arteezy joigna [Kaipi](http://www.wiki.teamliquid.net/dota2/Kaipi), je pu le 
+Un jour, je suis tombé sur le stream d'[EternalEnvy](http://wiki.teamliquid.net/dota2/EternaLEnVy) qui pratiquait le middle avec [Arteezy](http://wiki.teamliquid.net/dota2/Arteezy).
+Pour quelqu'un comme moi, c'était une mine d'or : ils parlaient dans les moindre détails du combat pour les lasthits, le positionement, et le creep control. Comme Arteezy joigna [Kaipi](http://wiki.teamliquid.net/dota2/Kaipi), je pu le 
 regarder dans des matchs compétitifs, et analyser ses mouvements du point de vue du joueur. Je fus surpris par le peu que je savais sur le jeu au middle. Cela peut paraitra fanboy mais sa vision de jeu et ses mécaniques
 étaient de loin supérieur à tous les joueurs que je connaissais. Je le remercie spécialement car le voir jouer m'aida beaucoup à créer ce guide.
 
@@ -43,7 +43,7 @@ sans équipe, je joue [IXDL- invite](http://ixdl.net) la plupart du temps.
 
 Comme je ne planifie pas de rejoindre une équipe dans un futur proche, et que je ne me soucie pas du fait que mes adversaire prennent connaissance de toutes les tactiques présentées dans ce guide, j'ai décidé que partager ce savoir avec tous est la meilleure option.
 Quelques joueurs vont m'haïr de publier ces quelques astuces, mais c'est comme ça que le niveau général de DotA progresse : 
-La connaissance de l'"élite" devient connue, tu dois donc servir quelquechose de nouveau ! Je suis aussi l'auteur du guide [ChaQ's Complete Guide to lasthitting](http://www.playdota.coom/guides/no-more-l2-farm-noob) et tout commentaire positif reçu m'ont rendu heureux de savoir que quelqu'un
+La connaissance de l'"élite" devient connue, tu dois donc servir quelquechose de nouveau ! Je suis aussi l'auteur du guide [ChaQ's Complete Guide to lasthitting](http://www.playdota.com/guides/no-more-l2-farm-noob) et tout commentaire positif reçu m'ont rendu heureux de savoir que quelqu'un
 sentait la joie de DotA grâce à ce guide.
 
 ### 1.4 A qui s'adresse ce quide ###
@@ -61,7 +61,7 @@ __Avantages :__
 
   + Jouer en 1v1 est vraiment fun, et il n'y a pas meilleur sentiment que de tuer un bon joueur solo mid
 
-  + Vous n'êtes pas tant dépendant de votre équipe, l'entrainement en Matchmaking publique est beaucoup plus facile que l'[offlane](http://www.millenium.org/dota-2/acceuil/guides/metagame-competitive-roles-et-position-des-heros-92811?page=3)
+  + Vous n'êtes pas tant dépendant de votre équipe, l'entrainement en Matchmaking publique est beaucoup plus facile que l'[offlane](http://www.millenium.org/dota-2/accueil/guides/metagame-competitive-roles-et-position-des-heros-92811?page=3)
 
 __Inconvénients :__
 

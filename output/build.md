@@ -1,7 +1,12 @@
 # Le guide ultime du solo middle avancé #
-## par ChaQ ##
+## par [ChaQ](http://www.chaqdota.wordpress.com/2013/09/05/chaqs-ultimate-guide-to-advanced-solo-middle) ##
 
-_Traduction française : ChickEnSkill_
+_Traduction française : [ChickEnSkill](http://www.twitter.com/ChikenSkill)_
+
+_Github repo : [tradChaqGuide](https://github.com/ChickenCoding/tradChaqGuide)_
+
+_Licence (translation) :  [GPL v3](https://raw.github.com/ChickenCoding/tradChaqGuide/master/LICENSE)_
+
 
 
 ## Table des matières ##
@@ -12,7 +17,7 @@ _Traduction française : ChickEnSkill_
   4. Tout est aggro
   5. Esquiver les smokeganks
   6. Le contrôle de rune
-  7. Gank ou pas gank?
+  7. Gank ou ne pas gank?
   8. DoubleWaving, qu'est-ce et quand l'utiliser
   9. Matchups difficile, comment gérer
   10. Petites astuces pour devenir un meilleur joueur middle
@@ -36,13 +41,13 @@ J'ai commencé la bêta Dota 2 très rapidement, étant l'un des premiers gagnan
 Après des centaines d'heures passées sur le Matchmaking publique, je décidais de me mettre
 à la scène compétitive. J'ai parcouru quelques leagues inhouse, avant de finalement rejoindre
 une équipe. Les équipes polonaise étant extrêmement instables, je suis passé par plusieurs d'entres-
-elle, jouant en [position 1](http://www.millenium.org/dota-2/acceuil/guides/metagame-competitive-roles-et-position-des-heros-92811?page=2)
+elle, jouant en [position 1](http://www.millenium.org/dota-2/accueil/guides/metagame-competitive-roles-et-position-des-heros-92811?page=2)
 
-Depuis 1 ou 2 ans, je me suis vraiment interréssé au ["2", le rôle du middle](http://www.millenium.org/dota-2/acceuil/guides/metagame-competitive-roles-et-position-des-heros-92811?page=3).
+Depuis 1 ou 2 ans, je me suis vraiment interréssé au ["2", le rôle du middle](http://www.millenium.org/dota-2/accueil/guides/metagame-competitive-roles-et-position-des-heros-92811?page=3).
 J'ai commencé par ne choisir que des héros de middle en Matchmaking publique, recherchant toute astuce et toute ruse possible qui me permettrait de devenir meilleur.
 
-Un jour, je suis tombé sur le stream d'[EternalEnvy](http://www.wiki.teamliquid.net/dota2/EternaLEnVy) qui pratiquait le middle avec [Arteezy](http://www.wiki.teamliquid.net/dota2/Arteezy).
-Pour quelqu'un comme moi, c'était une mine d'or : ils parlaient dans les moindre détails du combat pour les lasthits, le positionement, et le creep control. Comme Arteezy joigna [Kaipi](http://www.wiki.teamliquid.net/dota2/Kaipi), je pu le 
+Un jour, je suis tombé sur le stream d'[EternalEnvy](http://wiki.teamliquid.net/dota2/EternaLEnVy) qui pratiquait le middle avec [Arteezy](http://wiki.teamliquid.net/dota2/Arteezy).
+Pour quelqu'un comme moi, c'était une mine d'or : ils parlaient dans les moindre détails du combat pour les lasthits, le positionement, et le creep control. Comme Arteezy joigna [Kaipi](http://wiki.teamliquid.net/dota2/Kaipi), je pu le 
 regarder dans des matchs compétitifs, et analyser ses mouvements du point de vue du joueur. Je fus surpris par le peu que je savais sur le jeu au middle. Cela peut paraitra fanboy mais sa vision de jeu et ses mécaniques
 étaient de loin supérieur à tous les joueurs que je connaissais. Je le remercie spécialement car le voir jouer m'aida beaucoup à créer ce guide.
 
@@ -65,7 +70,7 @@ sans équipe, je joue [IXDL- invite](http://ixdl.net) la plupart du temps.
 
 Comme je ne planifie pas de rejoindre une équipe dans un futur proche, et que je ne me soucie pas du fait que mes adversaire prennent connaissance de toutes les tactiques présentées dans ce guide, j'ai décidé que partager ce savoir avec tous est la meilleure option.
 Quelques joueurs vont m'haïr de publier ces quelques astuces, mais c'est comme ça que le niveau général de DotA progresse : 
-La connaissance de l'"élite" devient connue, tu dois donc servir quelquechose de nouveau ! Je suis aussi l'auteur du guide [ChaQ's Complete Guide to lasthitting](http://www.playdota.coom/guides/no-more-l2-farm-noob) et tout commentaire positif reçu m'ont rendu heureux de savoir que quelqu'un
+La connaissance de l'"élite" devient connue, tu dois donc servir quelquechose de nouveau ! Je suis aussi l'auteur du guide [ChaQ's Complete Guide to lasthitting](http://www.playdota.com/guides/no-more-l2-farm-noob) et tout commentaire positif reçu m'ont rendu heureux de savoir que quelqu'un
 sentait la joie de DotA grâce à ce guide.
 
 ### 1.4 A qui s'adresse ce quide ###
@@ -83,7 +88,7 @@ __Avantages :__
 
   + Jouer en 1v1 est vraiment fun, et il n'y a pas meilleur sentiment que de tuer un bon joueur solo mid
 
-  + Vous n'êtes pas tant dépendant de votre équipe, l'entrainement en Matchmaking publique est beaucoup plus facile que l'[offlane](http://www.millenium.org/dota-2/acceuil/guides/metagame-competitive-roles-et-position-des-heros-92811?page=3)
+  + Vous n'êtes pas tant dépendant de votre équipe, l'entrainement en Matchmaking publique est beaucoup plus facile que l'[offlane](http://www.millenium.org/dota-2/accueil/guides/metagame-competitive-roles-et-position-des-heros-92811?page=3)
 
 __Inconvénients :__
 
@@ -152,11 +157,11 @@ Il n'y a pas d'astuce particulière pour le côté Dire; cependant pour maximise
 #### Quelle est la meilleur solution pour creepblock? ####
 
 Honnêtement, ce qui marche le mieux pour moi et pour beaucoup de joueurs pro est une combinaison des 2. Dans la vidéo ci-dessous, vous pouvez voir une comparaison entre joueurs : certains aiment maintenir le raccourci de sélection du héro
-pour garder la caméra centrée. [Dendi](http://www.wiki.teamliquid.net/dota2/Dendi) utilises la panoramique d'écran, et Arteezy cliques juste sur son raccourci héro chaque fraction de secondes pour bouger la caméra.
+pour garder la caméra centrée. [Dendi](http://wiki.teamliquid.net/dota2/Dendi) utilises la panoramique d'écran, et Arteezy cliques juste sur son raccourci héro chaque fraction de secondes pour bouger la caméra.
 
 __Cliquez sur l'image pour voir la vidéo :__
 
-[![Solution de creepblock](http://img.youtube.com/vi/TZw2XB0I3uM/0.jpg)](http://www.youtube.com/watch?v=TZw2XBOI3uM)
+[![Solution de creepblock](http://img.youtube.com/vi/TZw2XB0I3uM/0.jpg)](http://www.youtube.com/watch?v=TZw2XB0I3uM)
 
 #### 2.4 Laisser la creep à distance en premier - Quand utiliser cette technique et pourquoi ne pas en abbuser ####
 
@@ -334,7 +339,7 @@ Cela demande simplement de mémoriser la couleurs du/des joueur(s) qui peuvent v
 Dans cette partie, j'ai choisi Crystal Maiden comme le danger de gank. si le point orange manque sur la map et le carry ennemi ne farme pas sous sa tour 
 à cause du pull de Crystal Maiden, je devrais jouer défensivement.
 
-### 5.3 Méthode du tableua des scores et de la position du carry ennemi ###
+### 5.3 Méthode du tableau des scores et de la position du carry ennemi ###
 
 Cette méthode requiert de vous de regarder constamment le tableau de score et de regarder si les supports adverses gagnent du niveau. 
 Si vous sentez qu'ils vont vous ganker quand ils auraient dû faire un pull ou deux, vous devriez vous attendre à un gank. 
@@ -398,7 +403,7 @@ Quelques conseils de bottlecrow :
 
 
 
- ## Chapitre 7. Gank ou pas gank?
+ ## Chapitre 7. Gank ou ne pas gank?
 
 Telle est la question. Vous devez sûrement vous demander en matchmaking publique "Dois-je écouter mon coéquipier? Il est en train de feed et dit qu'il ne peut rien
 faire sur sa lane mais je ne suis que niveau 3..."

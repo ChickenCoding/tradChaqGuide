@@ -1,4 +1,4 @@
-## Chapitre 7. Gank ou pas gank?
+## Chapitre 7. Gank ou ne pas gank?
 
 Telle est la question. Vous devez sûrement vous demander en matchmaking publique "Dois-je écouter mon coéquipier? Il est en train de feed et dit qu'il ne peut rien
 faire sur sa lane mais je ne suis que niveau 3..."
