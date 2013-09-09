@@ -522,7 +522,8 @@ Une des meilleurs abilités de la Batrider es sa vitesse de projectile. Une bonn
 ne  marche évidemment pas sur ses propres creeps vous devriez être capable de lasthit vous-aussi.
 Ne pas mourrir en vous en faisant attraper sera déjà une grande victoire pour votre équipe.
 Les héros décents contre Batrider sont OD, Puck, Queen of Pain, et..Zeus ! 
- <div id="c10"></div>
+ 
+<div id="c10"></div>
 
 ## Chapitre 10. Petites astuces pour devenir un meilleur joueur middle ##
 
