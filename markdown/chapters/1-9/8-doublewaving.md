@@ -16,8 +16,9 @@ Pendant ce temps vous êtes libre de l'harass avec toutes les astuce d'aggro app
 
 Voici une vidéo montrant cette strategie contre mon ami : 
 
+__Cliquez sur l'image pour voir la vidéo :__
 
-[![démonstration du doublewaving](http://img.youtube.com/vi/Qu0MvgLZVQc)](http://www.youutbe.com/watch?v=Qu0MvgLZVQc)
+[![démonstration du doublewaving](http://img.youtube.com/vi/Qu0MvgLZVQc/0.jpg)](http://www.youtube.com/watch?v=Qu0MvgLZVQc)
 
 Quelques idées à rappeler quand vous essayez de faire ceci : 
   

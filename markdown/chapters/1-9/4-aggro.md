@@ -37,7 +37,9 @@ La meilleur chose à faire est de vous positioner avant de A-click sur l'adversa
 
 Regardez la vidéo suivante : Arteezy a memorisé le rayon de 500 unités pour que chaque fois qu'il clique droit sur un ennemi, il ramène seulement la creep souhaité devant lui : 
 
-[![démonstration d'aggro](http://img.youtube.com/vi/YDmUYduF7Ys)](http://www.youutbe.com/watch?v=YDmUYduF7Ys)
+__Cliquez sur l'image pour voir la vidéo :__
+
+[![démonstration d'aggro](http://img.youtube.com/vi/YDmUYdUF7Ys/0.jpg)](http://www.youtube.com/watch?v=YDmUYdUF7Ys)
 
 Avec la pratique, vous découvrirez que l'usage de cette technique est seulement limitée par votre créativité. 
 
@@ -76,7 +78,9 @@ Peut-être l'avez-vous déjà fait sans vous en aperçevoir.
 Si vous vous êtes toujours demandé comment certains joueurs attaquaient les héros ennemis sans être attaquées par les creeps, cette section est faîte pour vous.
 Pour commencer, cette technique marche spécialement contre les héros mêlées ou ayant peu de distance. Voici une petite vidéo pour que vous compreniez le concept : 
 
-[![attaquer sans générer d'aggro](http://img.youtube.com/vi/uo9_Eu28Doo)](http://www.youutbe.com/watch?v=uo9_Eu28Doo)
+__Cliquez sur l'image pour voir la vidéo :__
+
+[![attaquer sans générer d'aggro](http://img.youtube.com/vi/uo9_Eu28Doo/0.jpg)](http://www.youtube.com/watch?v=uo9_Eu28Doo)
 
 Comme vous pouvez le contaster, même si je reste dans les 500 unités d'aggro des creeps, je ne me fais attaqué par aucune d'entre elles.
 La magie derrière cela est étonnament simple : _vous devez attaquer le héro en étant en dehors des 500 unités de la creep à distance_, puis en ne faisant rien d'autre que de courrir vers lui 

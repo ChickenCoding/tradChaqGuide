@@ -154,7 +154,9 @@ Il n'y a pas d'astuce particulière pour le côté Dire; cependant pour maximise
 Honnêtement, ce qui marche le mieux pour moi et pour beaucoup de joueurs pro est une combinaison des 2. Dans la vidéo ci-dessous, vous pouvez voir une comparaison entre joueurs : certains aiment maintenir le raccourci de sélection du héro
 pour garder la caméra centrée. [Dendi](http://www.wiki.teamliquid.net/dota2/Dendi) utilises la panoramique d'écran, et Arteezy cliques juste sur son raccourci héro chaque fraction de secondes pour bouger la caméra.
 
-[![Solution de creepblock](http://img.youtube.com/vi/TZw2XBOI3uM)](http://www.youutbe.com/watch?v=TZw2XBOI3uM)
+__Cliquez sur l'image pour voir la vidéo :__
+
+[![Solution de creepblock](http://img.youtube.com/vi/TZw2XB0I3uM/0.jpg)](http://www.youtube.com/watch?v=TZw2XBOI3uM)
 
 #### 2.4 Laisser la creep à distance en premier - Quand utiliser cette technique et pourquoi ne pas en abbuser ####
 
@@ -207,7 +209,9 @@ et cela s'avère ardu lorsqu'ils jouent différents héros.
 
 _PS : Si vous voulez voir le score de lasthit, regardez en haut à gauche, pas en bas à droite. Le score de creeps de celui-ci est buggé_
 
-[![situations d'openings](http://img.youtube.com/vi/ytugvYp02m0)](http://www.youutbe.com/watch?v=ytugvYp02m0)
+__Cliquez sur l'image pour voir la vidéo :__
+
+[![situations d'openings](http://img.youtube.com/vi/ytugvYp02m0/0.jpg)](http://www.youtube.com/watch?v=ytugvYp02m0)
 
  ## Chapitre 4. Tout est aggro ##
 
@@ -248,7 +252,9 @@ La meilleur chose à faire est de vous positioner avant de A-click sur l'adversa
 
 Regardez la vidéo suivante : Arteezy a memorisé le rayon de 500 unités pour que chaque fois qu'il clique droit sur un ennemi, il ramène seulement la creep souhaité devant lui : 
 
-[![démonstration d'aggro](http://img.youtube.com/vi/YDmUYduF7Ys)](http://www.youutbe.com/watch?v=YDmUYduF7Ys)
+__Cliquez sur l'image pour voir la vidéo :__
+
+[![démonstration d'aggro](http://img.youtube.com/vi/YDmUYdUF7Ys/0.jpg)](http://www.youtube.com/watch?v=YDmUYdUF7Ys)
 
 Avec la pratique, vous découvrirez que l'usage de cette technique est seulement limitée par votre créativité. 
 
@@ -287,7 +293,9 @@ Peut-être l'avez-vous déjà fait sans vous en aperçevoir.
 Si vous vous êtes toujours demandé comment certains joueurs attaquaient les héros ennemis sans être attaquées par les creeps, cette section est faîte pour vous.
 Pour commencer, cette technique marche spécialement contre les héros mêlées ou ayant peu de distance. Voici une petite vidéo pour que vous compreniez le concept : 
 
-[![attaquer sans générer d'aggro](http://img.youtube.com/vi/uo9_Eu28Doo)](http://www.youutbe.com/watch?v=uo9_Eu28Doo)
+__Cliquez sur l'image pour voir la vidéo :__
+
+[![attaquer sans générer d'aggro](http://img.youtube.com/vi/uo9_Eu28Doo/0.jpg)](http://www.youtube.com/watch?v=uo9_Eu28Doo)
 
 Comme vous pouvez le contaster, même si je reste dans les 500 unités d'aggro des creeps, je ne me fais attaqué par aucune d'entre elles.
 La magie derrière cela est étonnament simple : _vous devez attaquer le héro en étant en dehors des 500 unités de la creep à distance_, puis en ne faisant rien d'autre que de courrir vers lui 
@@ -435,8 +443,9 @@ Pendant ce temps vous êtes libre de l'harass avec toutes les astuce d'aggro app
 
 Voici une vidéo montrant cette strategie contre mon ami : 
 
+__Cliquez sur l'image pour voir la vidéo :__
 
-[![démonstration du doublewaving](http://img.youtube.com/vi/Qu0MvgLZVQc)](http://www.youutbe.com/watch?v=Qu0MvgLZVQc)
+[![démonstration du doublewaving](http://img.youtube.com/vi/Qu0MvgLZVQc/0.jpg)](http://www.youtube.com/watch?v=Qu0MvgLZVQc)
 
 Quelques idées à rappeler quand vous essayez de faire ceci : 
   
@@ -461,8 +470,9 @@ Comme vous avez pu le lire, quelques stratégies existent pour faire de TA un h�
 L'une des performances les plus impressionantes était Puck d'Arteezy écrasant TA grâce à l'armure du Treant Protector.
 Heureusement, j'avais un ticket pour ce tournoi, donc voici une vidéo pour vous !
 
+__Cliquez sur l'image pour voir la vidéo :__
 
-[![Puck d'Arteezy contre TA](http://img.youtube.com/vi/x1tZZGvdm-c)](http://www.youutbe.com/watch?v=x1tZZGvdm-c)
+[![Puck d'Arteezy contre TA](http://img.youtube.com/vi/x1tZZGvdM-c/0.jpg)](http://www.youtube.com/watch?v=x1tZZGvdM-c)
 
 Arteezy utilisa toutes les techniques possibles pour outlane son adversaire. Son lasthit sous la tour est impeccable sur cette partie.
 Même s'il n'avait aucune rune il out-creepskill sévèrement la TA and attrape même un kill sur un Dark Seer jungle. Cette vidéo démontre

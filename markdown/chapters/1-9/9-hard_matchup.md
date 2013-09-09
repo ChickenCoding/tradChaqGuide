@@ -9,8 +9,9 @@ Comme vous avez pu le lire, quelques stratégies existent pour faire de TA un h�
 L'une des performances les plus impressionantes était Puck d'Arteezy écrasant TA grâce à l'armure du Treant Protector.
 Heureusement, j'avais un ticket pour ce tournoi, donc voici une vidéo pour vous !
 
+__Cliquez sur l'image pour voir la vidéo :__
 
-[![Puck d'Arteezy contre TA](http://img.youtube.com/vi/x1tZZGvdm-c)](http://www.youutbe.com/watch?v=x1tZZGvdm-c)
+[![Puck d'Arteezy contre TA](http://img.youtube.com/vi/x1tZZGvdM-c/0.jpg)](http://www.youtube.com/watch?v=x1tZZGvdM-c)
 
 Arteezy utilisa toutes les techniques possibles pour outlane son adversaire. Son lasthit sous la tour est impeccable sur cette partie.
 Même s'il n'avait aucune rune il out-creepskill sévèrement la TA and attrape même un kill sur un Dark Seer jungle. Cette vidéo démontre

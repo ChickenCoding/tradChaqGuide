@@ -22,5 +22,7 @@ et cela s'avère ardu lorsqu'ils jouent différents héros.
 
 _PS : Si vous voulez voir le score de lasthit, regardez en haut à gauche, pas en bas à droite. Le score de creeps de celui-ci est buggé_
 
-[![situations d'openings](http://img.youtube.com/vi/ytugvYp02m0)](http://www.youutbe.com/watch?v=ytugvYp02m0)
+__Cliquez sur l'image pour voir la vidéo :__
+
+[![situations d'openings](http://img.youtube.com/vi/ytugvYp02m0/0.jpg)](http://www.youtube.com/watch?v=ytugvYp02m0)
 
