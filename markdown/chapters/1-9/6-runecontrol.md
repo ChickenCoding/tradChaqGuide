@@ -1,3 +1,5 @@
+<div id="c6"></div>
+
 ## Chapitre 6. Le contrôle de rune ##
 
 Que vous aimiez les runes et leur aspect aléatoires, cela permet souvent de gagner ou perdre la partie. 

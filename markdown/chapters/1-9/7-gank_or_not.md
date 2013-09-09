@@ -1,3 +1,5 @@
+<div id="c7"></div>
+
 ## Chapitre 7. Gank ou ne pas gank?
 
 Telle est la question. Vous devez sûrement vous demander en matchmaking publique "Dois-je écouter mon coéquipier? Il est en train de feed et dit qu'il ne peut rien

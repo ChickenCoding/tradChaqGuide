@@ -1,3 +1,5 @@
+<div id="c4"></div>
+
 ## Chapitre 4. Tout est aggro ##
 
 Vous devez vous demander de quoi parle ce chapitre. Ma réponse est : si vous apprenez et masterisez les règles d'aggro des creeps, votre niveau de 

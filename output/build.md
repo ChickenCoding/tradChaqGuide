@@ -11,21 +11,23 @@ _Licence (translation) :  [GPL v3](https://raw.github.com/ChickenCoding/tradChaq
 
 ## Table des matières ##
 
-  1. Introdution
-  2. Tout ce dont vous avez besoin de savoir sur le creepblock
-  3. C'est parti : les ouvertures
-  4. Tout est aggro
-  5. Esquiver les smokeganks
-  6. Le contrôle de rune
-  7. Gank ou ne pas gank?
-  8. DoubleWaving, qu'est-ce et quand l'utiliser
-  9. Matchups difficile, comment gérer
-  10. Petites astuces pour devenir un meilleur joueur middle
-  11. Entrainements, comment et pourquoi
-  12. Conclusion et remerciements
+  1. [Introdution](#c1)
+  2. [Tout ce dont vous avez besoin de savoir sur le creepblock](#c2)
+  3. [C'est parti : les ouvertures](#c3)
+  4. [Tout est aggro](#c4)
+  5. [Esquiver les smokeganks](#c5)
+  6. [Le contrôle de rune](#c6)
+  7. [Gank ou ne pas gank?](#c7)
+  8. [DoubleWaving, qu'est-ce et quand l'utiliser](#c8)
+  9. [Matchups difficile, comment gérer](#c9)
+  10. [Petites astuces pour devenir un meilleur joueur middle](#c10)
+  11. [Entrainements, comment et pourquoi](#c11)
+  12. [Conclusion et remerciements](#c12)
 
 
- ## Chapitre 1. Introduction ##
+ <div id="c1"></div>
+
+## Chapitre 1. Introduction ##
 
 ### 1.1 Question des plus basiques : qui es-tu ? ###
 
@@ -104,7 +106,9 @@ __Inconvénients :__
 
 Comme dit dans l'introduction, je ne rentrerais pas dans les détails de ce que le jeu middle incombe généralement ou quels héros devraient/ne devraient pas aller au mid et pourquoi. Je veux expliquer par étapes le jeu middle et détailler chacune de celles-ci.
 
- ### Chapitre 2 . Tout ce dont vous avez besoin de savoir sur le creepblock ###
+ <div id="c2"></div>
+
+### Chapitre 2 . Tout ce dont vous avez besoin de savoir sur le creepblock ###
 
 Je veux commencer la partie principale de mon guide avec ce qui est probablement l'une des choses les plus regardées dans le jeu
 solo middle. Aussi basique que cela peut être, c'est l' ~~in~~populaire creepblock. Les joueurs de haut-niveau et professionels connaissent l'importance d'un bon creepblock, spécialement
@@ -190,7 +194,9 @@ Rappelez-vous que le creepblock est vraiment facile en singleplayer. Pour pratiq
 A l'annonce des picks, choissisez Queen Of Pain, mettez le mode à ``-wtf`` et prenez position. Pour commencer la partie, entrez juste la commande ``-startgame``.
 Après avoir réussi ou pas le creepblock, revenez avec tous vos sorts prêts et recommencez. Répétez jusqu'à ce que vous soyez satisfait de votre régularité.
 
- ## Chapitre 3. C'est parti : les openings ##
+ <div id="c3"></div>
+
+## Chapitre 3. C'est parti : les openings ##
 
 Après le creepblock, le temps est venu pour ce que j'appelle les openings. Pour moi, c'est l'une des 
 phases cruciales de votre laning. Les premières attaques, actions et décisions montrent tellement du niveau du joueurs que quelquefois je 
@@ -218,7 +224,9 @@ __Cliquez sur l'image pour voir la vidéo :__
 
 [![situations d'openings](http://img.youtube.com/vi/ytugvYp02m0/0.jpg)](http://www.youtube.com/watch?v=ytugvYp02m0)
 
- ## Chapitre 4. Tout est aggro ##
+ <div id="c4"></div>
+
+## Chapitre 4. Tout est aggro ##
 
 Vous devez vous demander de quoi parle ce chapitre. Ma réponse est : si vous apprenez et masterisez les règles d'aggro des creeps, votre niveau de 
 jeu en mid va s'envoler. Pour être honnête, après avoir analysé le jeu d'Arteezy, Je pense que c'est l'une des raisons pour lesquelles c'est un 
@@ -313,7 +321,9 @@ Ce mécanisme peut être utilisé comme l'un des "openings" : Lorsque vous appro
 Il ne pourra échanger les coups efficacement puisqu'il déclenchera l'aggro des creeps sur lui.
 
 
- ## Chapitre 5. Eviter les smokeganks ##
+ <div id="c5"></div>
+
+## Chapitre 5. Eviter les smokeganks ##
 
 Si vous avez déjà joué à DotA à un niveau plus élevé, vous avez probablement rencontré le pire cauchemar
 des joueurs middle : le smokegank. Il font naître un sentiment de danger constant et vous ne pouvez pas vraiment vous concentrer
@@ -356,7 +366,9 @@ Vous devrez constamment vérifier le spot avec votre caméra car la smoke cache 
 de truesight sur eux, et cela permet évidemment une détection plus hardue.
 
 
- ## Chapitre 6. Le contrôle de rune ##
+ <div id="c6"></div>
+
+## Chapitre 6. Le contrôle de rune ##
 
 Que vous aimiez les runes et leur aspect aléatoires, cela permet souvent de gagner ou perdre la partie. 
 Contrôler qui a la rune est un facteur important de votre niveau de joueur middle.
@@ -403,7 +415,9 @@ Quelques conseils de bottlecrow :
 
 
 
- ## Chapitre 7. Gank ou ne pas gank?
+ <div id="c7"></div>
+
+## Chapitre 7. Gank ou ne pas gank?
 
 Telle est la question. Vous devez sûrement vous demander en matchmaking publique "Dois-je écouter mon coéquipier? Il est en train de feed et dit qu'il ne peut rien
 faire sur sa lane mais je ne suis que niveau 3..."
@@ -430,7 +444,9 @@ Si vous avez votre niveau 6, gank avec succès et n'avez pas encore utiliser vot
 
 
 
- ## Chapitre 8. Doublewaving, qu'est-ce et quand l'utiliser ##
+ <div id="c8"></div>
+
+## Chapitre 8. Doublewaving, qu'est-ce et quand l'utiliser ##
 
 Le doublewaving est une stratégie conçue pour permettre le laning contre les héros mêlés, petite distance et aggressif beaucoup plus facile.
 C'est aussi extrêmement efficace car avoir le niveau 2 avant l'adversaire vous donne un avantage signifant.
@@ -464,7 +480,9 @@ Quelques idées à rappeler quand vous essayez de faire ceci :
   + Ne pushez pas trop vite! Si vous tuez les premières vagues de creep avant que la seconde n'arrive, vous ne ferez que donner du lasthit gratuit et votre plan sera ruiné
 
 
- ##Chapitre 9. Matchups difficiles, comment gérer##
+ <div id="c9"></div>
+
+##Chapitre 9. Matchups difficiles, comment gérer##
 
 Il existe quelques héros qui vous font envio de quitter DotA après avoir jouer contre eux.
 Souvenez cependant que chaque héro est battable. "Outworld Devourer entre dans un bar. N'y-a-t'il pas de contre?" Plus maintenant!
@@ -502,7 +520,9 @@ Une des meilleurs abilités de la Batrider es sa vitesse de projectile. Une bonn
 ne  marche évidemment pas sur ses propres creeps vous devriez être capable de lasthit vous-aussi.
 Ne pas mourrir en vous en faisant attraper sera déjà une grande victoire pour votre équipe.
 Les héros décents contre Batrider sont OD, Puck, Queen of Pain, et..Zeus ! 
- ## Chapitre 10. Petites astuces pour devenir un meilleur joueur middle ##
+ <div id="c10"></div>
+
+## Chapitre 10. Petites astuces pour devenir un meilleur joueur middle ##
 
 Ce chapître réunit toutes les petites astuces qui sont trop insignifiantes pour avoir leurs propres chapîtres.
 Cependant, elle vous donne ensemble une tonne de connaissances qui ont souvent fait leurs preuves.
@@ -639,7 +659,9 @@ J'ai préparé une liste de faits divers qui ont été prouvés comme utiles qua
   + Vous pouvez utiliser Salve et Bottle même sous les niveaux 1-3 Rot de Pudge
 
 
- ## Chapitre 11. Entrainements, comment et pourquoi
+ <div id="c11"></div>
+
+## Chapitre 11. Entrainements, comment et pourquoi
 
 Les personnes jouant supports disent que la position 4 et 5 requiert le plus de pratique. Les 
 gens qui jouent offlane et carry disent la même chose. Et surprenament, chaque joueur de middle 
@@ -714,7 +736,9 @@ Si aucun de vos amis n'aime faire cela, il est temps de trouver de nouveaux amis
 Si vous demandez à l'admin, il vous ajoutera à la guilde et vous trouverez là-bas plein de joueurs en recherche de partenaires pour pratiquer.
 D'autres lieux pour rechercher des joueurs décents sont les canaux IXDL-Open/Invite correspondant à votre continent et les gros forums comme joindota.com
 
- ## Chapitre 12. Conclusion et remerciements
+ <div id="c12"></div>
+
+## Chapitre 12. Conclusion et remerciements
 
 Premièrement, merci à vous d'avoir lu ce guide, chaque commentaire veut dire beaucoup pour moi, merci ! :D
 Même si écrire tout cela m'a pris du temps, en regardant le résultat je ne regrette rien.

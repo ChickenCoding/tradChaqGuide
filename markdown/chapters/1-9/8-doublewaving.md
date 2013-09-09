@@ -1,3 +1,5 @@
+<div id="c8"></div>
+
 ## Chapitre 8. Doublewaving, qu'est-ce et quand l'utiliser ##
 
 Le doublewaving est une stratégie conçue pour permettre le laning contre les héros mêlés, petite distance et aggressif beaucoup plus facile.

@@ -1,3 +1,5 @@
+<div id="c10"></div>
+
 ## Chapitre 10. Petites astuces pour devenir un meilleur joueur middle ##
 
 Ce chapître réunit toutes les petites astuces qui sont trop insignifiantes pour avoir leurs propres chapîtres.

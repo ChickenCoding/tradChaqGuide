@@ -1,3 +1,5 @@
+<div id="c3"></div>
+
 ## Chapitre 3. C'est parti : les openings ##
 
 Après le creepblock, le temps est venu pour ce que j'appelle les openings. Pour moi, c'est l'une des 

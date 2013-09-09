@@ -1,3 +1,5 @@
+<div id="c9"></div>
+
 ##Chapitre 9. Matchups difficiles, comment gérer##
 
 Il existe quelques héros qui vous font envio de quitter DotA après avoir jouer contre eux.

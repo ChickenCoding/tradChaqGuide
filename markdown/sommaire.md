@@ -11,17 +11,17 @@ _Licence (translation) :  [GPL v3](https://raw.github.com/ChickenCoding/tradChaq
 
 ## Table des matières ##
 
-  1. Introdution
-  2. Tout ce dont vous avez besoin de savoir sur le creepblock
-  3. C'est parti : les ouvertures
-  4. Tout est aggro
-  5. Esquiver les smokeganks
-  6. Le contrôle de rune
-  7. Gank ou ne pas gank?
-  8. DoubleWaving, qu'est-ce et quand l'utiliser
-  9. Matchups difficile, comment gérer
-  10. Petites astuces pour devenir un meilleur joueur middle
-  11. Entrainements, comment et pourquoi
-  12. Conclusion et remerciements
+  1. [Introdution](#c1)
+  2. [Tout ce dont vous avez besoin de savoir sur le creepblock](#c2)
+  3. [C'est parti : les ouvertures](#c3)
+  4. [Tout est aggro](#c4)
+  5. [Esquiver les smokeganks](#c5)
+  6. [Le contrôle de rune](#c6)
+  7. [Gank ou ne pas gank?](#c7)
+  8. [DoubleWaving, qu'est-ce et quand l'utiliser](#c8)
+  9. [Matchups difficile, comment gérer](#c9)
+  10. [Petites astuces pour devenir un meilleur joueur middle](#c10)
+  11. [Entrainements, comment et pourquoi](#c11)
+  12. [Conclusion et remerciements](#c12)
 
 

@@ -1,3 +1,5 @@
+<div id="c5"></div>
+
 ## Chapitre 5. Eviter les smokeganks ##
 
 Si vous avez déjà joué à DotA à un niveau plus élevé, vous avez probablement rencontré le pire cauchemar

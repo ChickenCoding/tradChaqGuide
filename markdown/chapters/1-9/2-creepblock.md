@@ -1,3 +1,5 @@
+<div id="c2"></div>
+
 ### Chapitre 2 . Tout ce dont vous avez besoin de savoir sur le creepblock ###
 
 Je veux commencer la partie principale de mon guide avec ce qui est probablement l'une des choses les plus regardées dans le jeu

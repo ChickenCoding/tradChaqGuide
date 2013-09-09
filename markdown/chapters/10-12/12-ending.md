@@ -1,3 +1,5 @@
+<div id="c12"></div>
+
 ## Chapitre 12. Conclusion et remerciements
 
 Premièrement, merci à vous d'avoir lu ce guide, chaque commentaire veut dire beaucoup pour moi, merci ! :D
