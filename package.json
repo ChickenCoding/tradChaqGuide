@@ -1,0 +1,20 @@
+{
+  "name": "ChaQGuide",
+  "version": "0.0.0",
+  "description": "Traduction française de l'article : ChaQ's ultimate guide to advanced middle lane solo ",
+  "main": "index.js",
+  "dependencies": {
+    "grunt-cli": "~0.1.9",
+    "grunt": "~0.4.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-concat": "~0.3.0",
+    "grunt-md2html": "~0.1.4",
+    "grunt-contrib-imagemin": "~0.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "originally from ChaQ, translated by Chickenskill",
+  "license": "GPL"
+}

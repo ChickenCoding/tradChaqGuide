@@ -1,0 +1,164 @@
+<!DOCTYPE  html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    
+    <title>doc</title>
+    <style>
+      /*github.com style (c) Vasily Polovnyov <vast@whiteants.net>*/
+      pre code {
+        display: block; padding: 0.5em;
+        color: #333;
+        background: #f8f8ff
+      }
+      pre .comment,
+      pre .template_comment,
+      pre .diff .header,
+      pre .javadoc {
+        color: #998;
+        font-style: italic
+      }
+      pre .keyword,
+      pre .css .rule .keyword,
+      pre .winutils,
+      pre .javascript .title,
+      pre .nginx .title,
+      pre .subst,
+      pre .request,
+      pre .status {
+        color: #333;
+        font-weight: bold
+      }
+      pre .number,
+      pre .hexcolor,
+      pre .ruby .constant {
+        color: #099;
+      }
+      pre .string,
+      pre .tag .value,
+      pre .phpdoc,
+      pre .tex .formula {
+        color: #d14
+      }
+      pre .title,
+      pre .id {
+        color: #900;
+        font-weight: bold
+      }
+      pre .javascript .title,
+      pre .lisp .title,
+      pre .clojure .title,
+      pre .subst {
+        font-weight: normal
+      }
+      pre .class .title,
+      pre .haskell .type,
+      pre .vhdl .literal,
+      pre .tex .command {
+        color: #458;
+        font-weight: bold
+      }
+      pre .tag,
+      pre .tag .title,
+      pre .rules .property,
+      pre .django .tag .keyword {
+        color: #000080;
+        font-weight: normal
+      }
+      pre .attribute,
+      pre .variable,
+      pre .lisp .body {
+        color: #008080
+      }
+      pre .regexp {
+        color: #009926
+      }
+      pre .class {
+        color: #458;
+        font-weight: bold
+      }
+      pre .symbol,
+      pre .ruby .symbol .string,
+      pre .lisp .keyword,
+      pre .tex .special,
+      pre .prompt {
+        color: #990073
+      }
+      pre .built_in,
+      pre .lisp .title,
+      pre .clojure .built_in {
+        color: #0086b3
+      }
+      pre .preprocessor,
+      pre .pi,
+      pre .doctype,
+      pre .shebang,
+      pre .cdata {
+        color: #999;
+        font-weight: bold
+      }
+      pre .deletion {
+        background: #fdd
+      }
+      pre .addition {
+        background: #dfd
+      }
+      pre .diff .change {
+        background: #0086b3
+      }
+      pre .chunk {
+        color: #aaa
+      }
+    </style>
+  </head>
+  <body>  
+    <h1>Le guide ultime du solo middle avancé par ChaQ, traduction française</h1>
+<p><strong>Ce guide est en construction et ne reflète pas la version finale.</strong></p>
+<h2>Explication des différents répertoires :</h2>
+<p>Les sources de ce guide sont écrites en <a href="http://daringfireball.net/projects/markdown">Markdown</a> et sont situées dans le dossier <code>markdown</code>.</p>
+<p>La concaténation des fichiers <code>.md</code> et la version html brute sont situés dans le dossier <code>output</code></p>
+<p>La version html + <a href="http://getbootstrap.com">Bootstrap</a> est situé dans le dossier <code>build</code>.</p>
+<h2>Pre-compilation</h2>
+<p>Pour précompiler, j&#39;utilise <a href="http://gruntjs.com">Gruntjs</a>. Différentes tâches sont disponibles : </p>
+<ul>
+<li><p><strong>default</strong> : tâche par défaut. Ne fais que concaténer les fichiers <code>.md</code> du répertoire <code>markdown</code> en un seul fichier : <code>output/build.md</code></p>
+</li>
+<li><p><strong>layout</strong> : concatène, et sort une version bootstrap + html </p>
+</li>
+<li><p><strong>concatOnly</strong> :  même tâche que <strong>default</strong></p>
+</li>
+<li><p><strong>noLayout</strong> :  concatène, et sort une version brute en <code>.html</code></p>
+</li>
+<li><p>De plus, ce lisez-moi peut être compilé grâce à la tâche <strong>readme</strong></p>
+</li>
+</ul>
+<p>Pour éxécuter l&#39;une de ces tâche écrire dans le terminal : </p>
+<pre><code>grunt &lt;nom de tâche&gt;</code></pre>
+<p>Exemple avec la tâche <strong>layout</strong> : </p>
+<pre><code>grunt layout</code></pre>
+<h1>ChaQ&#39;s ultimate guide to advanced middle lane solo, french translation</h1>
+<h2>Directories explanation</h2>
+<p>Sources of this guide are written in <a href="http://daringfireball.net/projects/markdown">Markdown</a> and are located in the repository <code>markdown</code>.</p>
+<p>Concat of files <code>.md</code> and basic html version are in <code>output</code> directory.</p>
+<p>Html + <a href="http://getbootstrap.com">Bootstrap</a> is in <code>build</code> directory.</p>
+<h2>Pre-processing</h2>
+<p>To pre-process, i use <a href="http://gruntjs.com">Gruntjs</a>. Several tasks are available : </p>
+<ul>
+<li><p><strong>default</strong> : default task. Only concat <code>md</code> files of <code>markdown</code> directory in <code>output/build.md</code> file.</p>
+</li>
+<li><p><strong>layout</strong> : concat, and output Bootstrap + htl version</p>
+</li>
+<li><p><strong>concatOnly</strong> : same as <strong>default</strong> task</p>
+</li>
+<li><p><strong>noLayout</strong> : concat, and output a basic <code>.html</code> version</p>
+</li>
+<li><p>additionally, this readme can be compiled thanx to <strong>readme</strong> task</p>
+</li>
+</ul>
+<p>In order to execute one of these tasks, type in a console : </p>
+<pre><code>grunt &lt;task name&gt;</code></pre>
+<p>Example with <strong>layout</strong> task : </p>
+<pre><code>grunt layout</code></pre>
+
+  </body>
+</html>
