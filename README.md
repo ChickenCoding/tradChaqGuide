@@ -1,7 +1,5 @@
 # Le guide ultime du solo middle avancé par ChaQ, traduction française #
 
-__Ce guide est en construction et ne reflète pas la version finale.__
-
 ## Explication des différents répertoires :  
 
 Les sources de ce guide sont écrites en [Markdown](http://daringfireball.net/projects/markdown) et sont situées dans le dossier ``markdown``.

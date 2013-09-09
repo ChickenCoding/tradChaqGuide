@@ -1,6 +1,8 @@
 # Le guide ultime du solo middle avancé #
 ## par [ChaQ](http://www.chaqdota.wordpress.com/2013/09/05/chaqs-ultimate-guide-to-advanced-solo-middle) ##
 
+_original name : ChaQ's ultimate guide to advanced solo middle_
+
 _Traduction française : [ChickEnSkill](http://www.twitter.com/ChikenSkill)_
 
 _Github repo : [tradChaqGuide](https://github.com/ChickenCoding/tradChaqGuide)_
