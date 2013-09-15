@@ -12,7 +12,7 @@ Maintenant, récapitulons quelques faits qui vous prouveront son extrême effica
   + Les creeps vont aggro n'importe qui attaquant à moins de 500 de radius. cela veut dire que si un héro attaque à 501 unités de la plus proche creep, la creep
   ne vous attaquera pas
 
-  + L'aggro des creeps a un cd de 2 secondes. Je vous décrirai comment abuser de cela dans le prochain chapitre
+  + L'aggro des creeps a un temps de rechargement de 2 secondes. Je vous décrirai comment abuser de cela dans le prochain chapitre
 
   + Peu importe la position du héro que vous attaquez. Aussi longtemps que vous êtes dans le radius de 500 unités, si vous A-click un héro d'une autre lane, vous porterez l'aggro
   des creeps sur vous.
@@ -87,7 +87,7 @@ __Cliquez sur l'image pour voir la vidéo :__
 Comme vous pouvez le contaster, même si je reste dans les 500 unités d'aggro des creeps, je ne me fais attaqué par aucune d'entre elles.
 La magie derrière cela est étonnament simple : _vous devez attaquer le héro en étant en dehors des 500 unités de la creep à distance_, puis en ne faisant rien d'autre que de courrir vers lui 
 et de l'attaquer.
-Ce qui se passe est que dès que vous attaquez, la creep veut vous attaquer mais ne peut pas car vous n'êtes pas dans son range d'aggro. Votre commande d'attaque génère un cd de 2 secondes sur leur cible, donc dès que vous courez vers les creeps, vous avez 2 secondes d'attaque 
+Ce qui se passe est que dès que vous attaquez, la creep veut vous attaquer mais ne peut pas car vous n'êtes pas dans son range d'aggro. Votre commande d'attaque génère un temps de rechargement de 2 secondes sur leur cible, donc dès que vous courez vers les creeps, vous avez 2 secondes d'attaque 
 libre sur votre ennemi alors que vous ne serez pas dommagé par la vague.
 Le nombre d'attaques dépend majoritairement de votre niveau et de vos attributs; pour la plupar des héros c'est une, quelquefois deux attaques que la creep ne recommence à vous attaquer.
 
